@@ -1,0 +1,51 @@
+.bg-img {
+  width: 100%;
+  height: 600px;
+  position: absolute;
+  background-repeat: no-repeat;
+  object-fit: cover;
+  top: 0;
+  left: 0;
+  z-index: -1;
+}
+
+.hr-style {
+  border: 1px solid #084CE3;
+}
+
+.logo-ned {
+  width: 5.5rem;
+}
+
+.icon-style {
+  background-color: #084CE3;
+  padding: 10px;
+  width: 40px;
+  border-radius: 50%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin: 5px;
+}
+
+.custom-padding-section {
+  padding-bottom: 100px;
+  padding-top: 100px;
+}
+
+.custom-text-color {
+  color: #073b9c;
+}
+
+.bg-we-offer {
+  position: absolute;
+  width: 600px;
+}
+
+.section-bg-color {
+  background-color: #F8F9FA;
+}
+
+.logo-width {
+  width: 60px;
+}
